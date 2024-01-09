@@ -1,0 +1,15 @@
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\GenericCollectionList\bin\Debug\net7.0\GenericCollectionList.exe
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\GenericCollectionList\bin\Debug\net7.0\GenericCollectionList.deps.json
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\GenericCollectionList\bin\Debug\net7.0\GenericCollectionList.runtimeconfig.json
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\GenericCollectionList\bin\Debug\net7.0\GenericCollectionList.dll
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\GenericCollectionList\bin\Debug\net7.0\GenericCollectionList.pdb
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\GenericCollectionList\obj\Debug\net7.0\GenericCollectionList.csproj.AssemblyReference.cache
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\GenericCollectionList\obj\Debug\net7.0\GenericCollectionList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\GenericCollectionList\obj\Debug\net7.0\GenericCollectionList.AssemblyInfoInputs.cache
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\GenericCollectionList\obj\Debug\net7.0\GenericCollectionList.AssemblyInfo.cs
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\GenericCollectionList\obj\Debug\net7.0\GenericCollectionList.csproj.CoreCompileInputs.cache
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\GenericCollectionList\obj\Debug\net7.0\GenericCollectionList.dll
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\GenericCollectionList\obj\Debug\net7.0\refint\GenericCollectionList.dll
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\GenericCollectionList\obj\Debug\net7.0\GenericCollectionList.pdb
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\GenericCollectionList\obj\Debug\net7.0\GenericCollectionList.genruntimeconfig.cache
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\GenericCollectionList\obj\Debug\net7.0\ref\GenericCollectionList.dll
